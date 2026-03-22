@@ -24,7 +24,7 @@ I build high-leverage agentic systems that bridge the gap between frontier AI lo
 
 ### 📫 Connect with me
 - **LinkedIn:** [Predrag Aranđelović](https://www.linkedin.com/in/predrag-arandjelovic/)
-- **Consulting:** [Lus Digital Consulting](https://www.linkedin.com/company/lux-digital-consulting/)
+- **Consulting:** [Lux Digital Consulting](https://www.linkedin.com/company/lux-digital-consulting/)
 - **Current Location:** Belgrade, Serbia 🇷🇸
 
 > "The era of the human typist is ending; the era of the human architect has begun."
